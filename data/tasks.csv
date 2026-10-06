@@ -1,0 +1,5 @@
+Task_ID,Task,Required_Skills,Priority,Deadline
+T001,Build Python automation script,Python|Automation,High,2026-10-10
+T002,Create sales dashboard,SQL|Power BI,Medium,2026-10-15
+T003,Develop AI chatbot,Python|AI,High,2026-10-12
+T004,Build React landing page,React|Frontend,Low,2026-10-20

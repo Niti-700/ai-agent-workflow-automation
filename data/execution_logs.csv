@@ -1,0 +1,16 @@
+Execution_ID,Workflow_ID,Status,Execution_Time_Seconds,Error,Failed_Step
+EX001,WF001,Success,2.4,,
+EX002,WF002,Success,3.1,,
+EX003,WF003,Failed,5.8,Missing required column,Validation
+EX004,WF004,Success,4.2,,
+EX005,WF005,Success,1.8,,
+EX006,WF006,Failed,6.5,Duplicate detection error,Duplicate Detection
+EX007,WF007,Success,3.7,,
+EX008,WF008,Success,4.1,,
+EX009,WF009,Success,2.9,,
+EX010,WF010,Success,7.2,,
+EX011,WF003,Success,5.2,,
+EX012,WF006,Success,4.8,,
+EX013,WF002,Failed,8.1,Price data mismatch,Price Validation
+EX014,WF004,Success,3.9,,
+EX015,WF005,Success,2.1,,
